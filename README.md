@@ -2,6 +2,10 @@
 
 [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) Emulator written with C
 
+## Dependencies
+
+To build this programm [SDL2](https://wiki.libsdl.org/Installation) has to be installed on your systems
+
 ## Build
 
 Use **make** to to build this project
