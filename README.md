@@ -18,7 +18,7 @@ The build directory can be cleaned with:
 make clean
 ```
 
-## Run the VM
+## Run the Emulator
 
 Start the CHIP-8 Emulator with a Rom
 
