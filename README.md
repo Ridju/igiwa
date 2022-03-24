@@ -4,7 +4,7 @@
 
 ## Dependencies
 
-To build this programm [SDL2](https://wiki.libsdl.org/Installation) has to be installed on your systems
+To build this programm [SDL2](https://wiki.libsdl.org/Installation) has to be installed on your system
 
 ## Build
 
